@@ -3,7 +3,7 @@
 <!--Rational Software Architect Designer 9.5-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Default="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2 pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default? http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
   <uml:Package xmi:id="_RbBlgIZREeaa_aE1g0sa9Q" name="analyse">
     <eAnnotations xmi:id="_RbBlgYZREeaa_aE1g0sa9Q" source="uml2.diagrams" references="_RbBlgoZREeaa_aE1g0sa9Q">
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RbBlgoZREeaa_aE1g0sa9Q" type="Freeform" name="Main"/>
@@ -133,7 +133,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_6n7WQYZSEeaa_aE1g0sa9Q"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_6n7WQoZSEeaa_aE1g0sa9Q"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6n7WQ4ZSEeaa_aE1g0sa9Q" x="24156" y="264" width="8330" height="1056"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6n7WQ4ZSEeaa_aE1g0sa9Q" x="24156" y="264" width="8435" height="1338"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_TFWucIZTEeaa_aE1g0sa9Q" type="Note" fontName="Cantarell" fontHeight="8" description="&lt;p>Ajouter, modifier, supprimer UE.&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_TFX8kIZTEeaa_aE1g0sa9Q" type="DiagramName">
@@ -145,7 +145,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_TFWucYZTEeaa_aE1g0sa9Q"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_TFWucoZTEeaa_aE1g0sa9Q"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TFWuc4ZTEeaa_aE1g0sa9Q" x="24156" y="1584" width="8463" height="1056"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TFWuc4ZTEeaa_aE1g0sa9Q" x="24156" y="1848" width="8463" height="1338"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_sGTN8IZUEeaa_aE1g0sa9Q" type="Note" fontName="Cantarell" fontHeight="8" description="&lt;p>Ajouter, modifier, supprimer les chapitres.&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_sGT1AIZUEeaa_aE1g0sa9Q" type="DiagramName">
@@ -157,7 +157,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_sGTN8YZUEeaa_aE1g0sa9Q"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_sGTN8oZUEeaa_aE1g0sa9Q"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sGTN84ZUEeaa_aE1g0sa9Q" x="24156" y="3036" width="8330" height="1057"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sGTN84ZUEeaa_aE1g0sa9Q" x="24156" y="3300" width="8046" height="1197"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_uN4TkIZWEeaa_aE1g0sa9Q" type="Note" fontName="Cantarell" fontHeight="8" description="&lt;p>L'utilisateur passe un QCM et peut consulter ses résultats à la fin.&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_uN46oIZWEeaa_aE1g0sa9Q" type="DiagramName">
@@ -169,7 +169,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_uN4TkYZWEeaa_aE1g0sa9Q"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_uN4TkoZWEeaa_aE1g0sa9Q"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uN4Tk4ZWEeaa_aE1g0sa9Q" x="24156" y="6336"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uN4Tk4ZWEeaa_aE1g0sa9Q" x="24156" y="6996" width="12385" height="1480"/>
         </children>
         <children xmi:type="notation:Shape" xmi:id="_gAzUYIZXEeaa_aE1g0sa9Q" type="Note" fontName="Cantarell" fontHeight="8" description="&lt;p>Ajouter, éditer, supprimer des supports pédagogiques (pages de cours, vidéos, PDF).&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_gA0igIZXEeaa_aE1g0sa9Q" type="DiagramName">
@@ -181,9 +181,9 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_gAzUYYZXEeaa_aE1g0sa9Q"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_gAzUYoZXEeaa_aE1g0sa9Q"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gAzUY4ZXEeaa_aE1g0sa9Q" x="24156" y="4620"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gAzUY4ZXEeaa_aE1g0sa9Q" x="24156" y="4620" width="15191"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_3qVAoIvMEea87_2BLNqRkA" type="Note" fontName="Cantarell" fontHeight="8" description="&lt;p>Permet à un enseingant de se s'authentifier&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+        <children xmi:type="notation:Shape" xmi:id="_3qVAoIvMEea87_2BLNqRkA" type="Note" fontName="Cantarell" fontHeight="8" description="&lt;p>Permet à un utilisateur de se connecter en tant qu'enseignant&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_3qZSEIvMEea87_2BLNqRkA" type="DiagramName">
             <element xsi:nil="true"/>
           </children>
@@ -193,7 +193,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_3qVAoYvMEea87_2BLNqRkA"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_3qVAoovMEea87_2BLNqRkA"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3qVAo4vMEea87_2BLNqRkA" x="24156" y="9108" width="8748" height="1622"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3qVAo4vMEea87_2BLNqRkA" x="24156" y="9108" width="8994" height="1727"/>
         </children>
         <element xsi:nil="true"/>
         <edges xmi:type="notation:Connector" xmi:id="_6opvAIZSEeaa_aE1g0sa9Q" type="NoteAttachment" source="_6n7WQIZSEeaa_aE1g0sa9Q" target="_z-vbwIZSEeaa_aE1g0sa9Q" lineColor="0" lineWidth="1">
@@ -998,10 +998,22 @@
         <extensionPoint xmi:id="_529zYIZSEeaa_aE1g0sa9Q" name="ExtensionPoint1"/>
       </ownedUseCase>
       <ownedUseCase xmi:id="_O4GD0IZTEeaa_aE1g0sa9Q" name="Gérer les chapitres" subject="_st7gkIZSEeaa_aE1g0sa9Q"/>
-      <ownedUseCase xmi:id="_--SdEIZTEeaa_aE1g0sa9Q" name="Poster un commentaire" subject="_st7gkIZSEeaa_aE1g0sa9Q"/>
+      <ownedUseCase xmi:id="_--SdEIZTEeaa_aE1g0sa9Q" name="Poster un commentaire" subject="_st7gkIZSEeaa_aE1g0sa9Q">
+        <ownedComment xmi:id="_Q-vNsIvZEea87_2BLNqRkA" annotatedElement="_--SdEIZTEeaa_aE1g0sa9Q">
+          <body>&lt;h2>UC Poster un commentaire&lt;/h2>&lt;ul>&lt;li>&lt;p>Créé le 06/10/16&lt;/p>&lt;/li>&lt;li>&lt;p>Mis à jour le 06/10/16&lt;/p>&lt;/li>&lt;li>&lt;p>Écrite par Benjamin Loglisci&lt;/p>&lt;/li>&lt;li>&lt;p>Version 1.0&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Description&lt;/h3>&lt;p>Permet à un Utilisateur ou un Enseignant de poster un commentaire à une question.&lt;/p>&lt;h3>Acteurs concernés&lt;/h3>&lt;ul>&lt;li>&lt;p>Utilisateur&lt;/p>&lt;/li>&lt;li>&lt;p>Enseignant&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Pré-Conditions&lt;/h3>&lt;ul>&lt;li>&lt;p>Etre sur la page de la question.&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Scénario nominal&lt;/h3>&lt;ol>&lt;li>&lt;p>L'Acteur rentre son commentaire, son pseudo et poste le commentaire.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche le commentaire et le pseudo avec les autres commentaires.&lt;/p>&lt;/li>&lt;/ol>&lt;h3>Post-Conditions&lt;/h3>&lt;ul>&lt;li>&lt;p>Le commentaire est posté et visible sur la page de la question.&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Alternatives possibles&lt;/h3>&lt;ol>&lt;li>&lt;p>L'Acteur est un Enseignant.&lt;/p>&lt;ol>&lt;li>&lt;p>Cette alternative se déclenche à l'étape 1.&lt;/p>&lt;/li>&lt;li>&lt;p>L'Enseignant ne rentre que son commentaire et le poste.&lt;/p>&lt;/li>&lt;li>&lt;p>Reprise à l'étape 2.&lt;/p>&lt;/li>&lt;/ol>&lt;/li>&lt;/ol>&lt;h3>Exceptions possibles&lt;/h3>&lt;ul>&lt;li>&lt;p>Aucune&lt;/p>&lt;/li>&lt;/ul>&lt;p>&lt;/p></body>
+        </ownedComment>
+      </ownedUseCase>
       <ownedUseCase xmi:id="_BUJhMIZUEeaa_aE1g0sa9Q" name="Effacer un commentaire" subject="_st7gkIZSEeaa_aE1g0sa9Q"/>
-      <ownedUseCase xmi:id="_Zx8s0IZUEeaa_aE1g0sa9Q" name="Passer un QCM" subject="_st7gkIZSEeaa_aE1g0sa9Q"/>
-      <ownedUseCase xmi:id="_0Da1gIZUEeaa_aE1g0sa9Q" name="S'authentifier"/>
+      <ownedUseCase xmi:id="_Zx8s0IZUEeaa_aE1g0sa9Q" name="Passer un QCM" subject="_st7gkIZSEeaa_aE1g0sa9Q">
+        <ownedComment xmi:id="_BGRScIvUEea87_2BLNqRkA" annotatedElement="_Zx8s0IZUEeaa_aE1g0sa9Q">
+          <body>&lt;h2>UC Passer un QCM&lt;/h2>&lt;ul>&lt;li>&lt;p>Créé le 06/10/16&lt;/p>&lt;/li>&lt;li>&lt;p>Mis à jour le 06/10/16&lt;/p>&lt;/li>&lt;li>&lt;p>Écrite par André Nasturas&lt;/p>&lt;/li>&lt;li>&lt;p>Version 1.0&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Description&lt;/h3>&lt;p>Le Passage d'un QCM désigne les actions de l'Utilisateur pour générer une série de questions à choix multiple d'une chapitre donnée d'une UE donnée, y répondre successivement, lire les corrections et enfin obtenir une note représentant le nombre de questions auxquelles il a choisi la réponse correcte.&lt;/p>&lt;h3>Acteurs concernés&lt;/h3>&lt;ul>&lt;li>&lt;p>Utilisateurs&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Pré-Conditions&lt;/h3>&lt;ul>&lt;li>&lt;p>Il existe déjà des questions prêtes à être posées à l'Utilisateur.&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Scénario nominal&lt;/h3>&lt;ol>&lt;li>&lt;p>L'Utilisateur sélectionne l'option&lt;span> &lt;/span>&lt;/p>&lt;i>Passer un QCM&lt;/i>&lt;p>.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche la liste des UE existantes.&lt;/p>&lt;/li>&lt;li>&lt;p>L'Utilisateur choisit l'UE de son choix.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche la liste des chapitres existantes dans l'UE choisie.&lt;/p>&lt;/li>&lt;li>&lt;p>L'Utilisateur choisit le chapitre de son choix.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche un formulaire proposant à l'Utilisateur de générer une séries de questions (QCM).&lt;/p>&lt;/li>&lt;li>&lt;p>L'Utilisateur choisit un nombre de question (entre 1 et 20) et le tape dans le formulaire, puis valide le formulaire.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système choisit aléatoirement le nombre de questions demandé par l'Utilisateur parmi les question existantes dans l'UE et le chapitre choisi.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche une question.&lt;/p>&lt;/li>&lt;li>&lt;p>L'Utilisateur répond à la question en choisissant une des réponses proposées.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système calcule le nombre de bonne réponses et l'affiche.&lt;/p>&lt;/li>&lt;/ol>&lt;h3>Post-Conditions&lt;/h3>&lt;p>Aucune.&lt;/p>&lt;h3>Alternatives possibles&lt;/h3>&lt;ol>&lt;li>&lt;p>Il reste des questions non répondues.&lt;/p>&lt;ol>&lt;li>&lt;p>Cette alternative se déclenche après l'étape 10.&lt;/p>&lt;/li>&lt;li>&lt;p>Le scénario nominal reprend à l'étape 9.&lt;/p>&lt;/li>&lt;/ol>&lt;/li>&lt;/ol>&lt;h3>Exceptions possibles&lt;/h3>&lt;ol>&lt;li>&lt;p>L'utilisateur abandonne le QCM encliquant sur le bouton d'annulation.&lt;/p>&lt;ol>&lt;li>&lt;p>Cette exception se déclenche après l'étape 9.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche la page d'accueil.&lt;/p>&lt;/li>&lt;/ol>&lt;/li>&lt;/ol>&lt;p>&lt;/p></body>
+        </ownedComment>
+      </ownedUseCase>
+      <ownedUseCase xmi:id="_0Da1gIZUEeaa_aE1g0sa9Q" name="S'authentifier">
+        <ownedComment xmi:id="_6BqAMIvTEea87_2BLNqRkA" annotatedElement="_0Da1gIZUEeaa_aE1g0sa9Q">
+          <body>&lt;h2>UC S'authentifier&lt;/h2>&lt;ul>&lt;li>&lt;p>Créé le 06/10/16&lt;/p>&lt;/li>&lt;li>&lt;p>Mis à jour le 06/10/16&lt;/p>&lt;/li>&lt;li>&lt;p>Écrite par André Nasturas&lt;/p>&lt;/li>&lt;li>&lt;p>Version 1.0&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Description&lt;/h3>&lt;p>L'Authentification permet à l'Utilisateur de s'identifier en tant qu'Enseignant et d'accéder aux fonctionnalités limitées de l'application, comme la gestion des UE et des questions.&lt;/p>&lt;h3>Acteurs concernés&lt;/h3>&lt;ul>&lt;li>&lt;p>Utilisateur&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Pré-Conditions&lt;/h3>&lt;ul>&lt;li>&lt;p>Aucune&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Scénario nominal&lt;/h3>&lt;ol>&lt;li>&lt;p>L'Utilisateur clique sur le bouton d'authentification sur l'application web.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche le formulaire de connexion.&lt;/p>&lt;/li>&lt;li>&lt;p>L'Utilisateur entre son identifiant et son mot de passe dans le formulaire.&lt;/p>&lt;/li>&lt;li>&lt;p>L'Utilisateur clique sur le bouton de validation.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système vérifie l'exactitude des identifiant et mot de passe.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche la page de gestion reservée aux Professeurs sur l'application web.&lt;/p>&lt;/li>&lt;/ol>&lt;h3>Post-Conditions&lt;/h3>&lt;ul>&lt;li>&lt;p>L'enseignant a accès à la page de gestion lui étant reservée.&lt;/p>&lt;/li>&lt;/ul>&lt;h3>Alternatives possibles&lt;/h3>&lt;ol>&lt;li>&lt;p>Les identifiants fournis par l'Utilisateur sont incorrects.&lt;/p>&lt;ol>&lt;li>&lt;p>Cette alternative se déclanche après l'étape 5 du scénario nominal.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche un message d'erreur sur l'application web.&lt;/p>&lt;/li>&lt;li>&lt;p>Le scénario nominal reprend à l'étape 2.&lt;/p>&lt;/li>&lt;/ol>&lt;/li>&lt;/ol>&lt;h3>Exceptions possibles&lt;/h3>&lt;ol>&lt;li>&lt;p>L'Utilisateur ne souhaite plus se connecter.&lt;/p>&lt;ol>&lt;li>&lt;p>Cette exception se déclanche après l'étape 2.&lt;/p>&lt;/li>&lt;li>&lt;p>L'Utilisateur clique sur le bouton d'annulation.&lt;/p>&lt;/li>&lt;li>&lt;p>Le Système affiche la page d'accueil de l'application web.&lt;/p>&lt;/li>&lt;/ol>&lt;/li>&lt;/ol>&lt;p>&lt;/p></body>
+        </ownedComment>
+      </ownedUseCase>
       <ownedUseCase xmi:id="_kRh_MIZWEeaa_aE1g0sa9Q" name="Gérer les supports" subject="_st7gkIZSEeaa_aE1g0sa9Q">
         <extensionPoint xmi:id="_kRx20IZWEeaa_aE1g0sa9Q" name="ExtensionPoint1"/>
       </ownedUseCase>
@@ -1210,4 +1222,7 @@
     </profileApplication>
   </uml:Package>
   <Standard:Subsystem xmi:id="_suNNYIZSEeaa_aE1g0sa9Q" base_Component="_st7gkIZSEeaa_aE1g0sa9Q"/>
+  <Default:Documentation xmi:id="_6BvfwIvTEea87_2BLNqRkA" base_Comment="_6BqAMIvTEea87_2BLNqRkA"/>
+  <Default:Documentation xmi:id="_BGU80IvUEea87_2BLNqRkA" base_Comment="_BGRScIvUEea87_2BLNqRkA"/>
+  <Default:Documentation xmi:id="_Q-yRAIvZEea87_2BLNqRkA" base_Comment="_Q-vNsIvZEea87_2BLNqRkA"/>
 </xmi:XMI>
