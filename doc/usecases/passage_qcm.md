@@ -3,7 +3,7 @@
 * Créé le 06/10/16
 * Mis à jour le 06/10/16
 * Écrite par André Nasturas
-* Version 1.0
+* Version 1.1
 
 ### Description
 
