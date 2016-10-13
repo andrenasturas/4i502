@@ -1,15 +1,15 @@
 ## UC_20 Gérer les UE
 
 * Créé le 06/10/16
-* Mis à jour le 06/10/16
+* Mis à jour le 13/10/16
 * Écrite par Damien Serin
-* Version 1.0
+* Version 1.2
 
 ### Description
 
 La gestion des UE permet à l'Enseignant d'ajouter, éditer et supprimer des UE.
 
-### Acteurs concernés
+### Acteur(s) concerné(s)
 
 * Enseignant
 
@@ -21,40 +21,44 @@ La gestion des UE permet à l'Enseignant d'ajouter, éditer et supprimer des UE.
 
 1. L'Enseignant demande l'affichage de la liste des UE.
 2. Le Système affiche la liste des UE.
-3. L'Enseignant choisit d'éditer une UE existante.
-4. Le Système vérifie si l'enseignant est bien le créateur de cette UE.
-5. Le Système affiche la page d'édition de l'UE.
+3. L'Enseignant sélectionne une UE existante à éditer.
+4. Le Système vérifie si l'enseignant est bien le propriétaire de cette UE.
+5. Le Système affiche le formulaire d'édition de l'UE.
 6. L'Enseignant modifie les champs souhaités.
-7. L'Enseignant valide sa modification.
-8. Le Sytème notifie l'Enseignant de la modification.
+7. L'Enseignant valide les modifications.
+8. Le Sytème notifie l'Enseignant des modifications.
 
 ### Post-Conditions
 
-* Les modifications sont appliquées.
+* Le Système a enregistré l'action de l'Enseignant.
 
 ### Alternatives possibles
 
-1. L'Enseignant n'est pas le créateur de l'UE	.
+A1. L'Enseignant souhaite ajouter une nouvelle UE.
+    1. Cette alternative se déclenche après l'étape 2 du scénario nominal.
+    2. Le Système affiche le formulaire d'ajout d'une UE.
+    3. L'Enseignant renseigne les champs du formulaire d'ajout d'une UE.
+    4. L'Enseignant valide l'ajout de l'UE.
+    3. Le Sytème notifie l'Enseignant de l'ajout d'une nouvelle UE. 
+    4. Le scénario nominal reprend à l'étape 2.
+
+A2. L'Enseignant n'est pas le créateur de l'UE	.
     1. Cette alternative se déclenche après l'étape 4 du scénario nominal.
     2. Le Système affiche un message d'erreur sur l'application web.
     3. Le scénario nominal reprend à l'étape 2.
 
-2. L'Enseignant souhaite créer une UE.
-    1. Cette alternative se déclenche après l'étape 2 du scénario nominal.
-    2. L'Enseignant choisit de créer une nouvelle UE.
-    3. Le Sytème notifie l'Enseignant de la création d'une nouvelle UE. 
-    4. Le scénario nominal reprend à l'étape 2.
-
-3. L'Enseignant souhaite supprimer une UE.
-    1. Cette alternative se déclenche après l'étape 4 du scénario nominal.
-    2. L'Enseignant choisit de supprimer l'UE selectionnée.
-    3. Le Système demande une confirmation de la suppression.
+A3. L'Enseignant souhaite supprimer une UE.
+    1. Cette alternative se déclenche après l'étape 5 du scénario nominal.
+    2. L'Enseignant clique sur le boutton permettant de supprimer l'UE selectionnée.
+    3. Le Système demande à l'enseignant de confirmer la suppression de l'UE.
     4. L'Enseignant confirme la demande de suppression.
     5. Le Système notifie l'Enseignant de la suppression de l'UE.
     6. Le scénario nominal reprend à l'étape 2.
 
 ### Exceptions possibles
 
-2. L'Enseignant souhaite annuler son action.
-    1.  Cette alternative se déclenche après les étapes 2, 5 ou 6 du scénario nominal.
-// DAMIEN FAIS LE PLEASE KEUR KEUR SUR TOI
+E1. L'Enseignant annule l'action en cours.
+    1. Cette execption se déclenche après l'étape 5 ou 6 du scénario nominal. Après l'étape 2 ou 3 du scénario alternatif A1. Après l'étape 3 du scénario alternatif A3.
+    2. L'Enseignant clique sur le bouton d'annulation.
+    3. Le Système notifie l'enseignant de l'annulation de l'action en cours.
+    4. Le Système affiche la liste des UE.
