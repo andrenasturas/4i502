@@ -1,4 +1,4 @@
-## UC Poster un commentaire
+## UC_70 Poster un commentaire
 
 * Créé le 06/10/16
 * Mis à jour le 06/10/16
