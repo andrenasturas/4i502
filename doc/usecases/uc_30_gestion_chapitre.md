@@ -9,7 +9,6 @@
 
 La gestion des chapitres permet à l'Enseignant d'ajouter, éditer et supprimer des chapitres liés à une UE.
 
-
 ### Acteurs concernés
 
 * Enseignant
@@ -38,7 +37,7 @@ La gestion des chapitres permet à l'Enseignant d'ajouter, éditer et supprimer 
 1. L'Enseignant souhaite ajouter un chapitre.
     1. Cette alternative se déclenche après l'étape 2 du scénario nominal.
     2. L'Enseignant choisit de créer un nouveau chapitre.
-    3. Le Sytème notifie l'Enseignant de la création du nouveau chapitre. 
+    3. Le Sytème notifie l'Enseignant de la création du nouveau chapitre.
     4. Le scénario nominal reprend à l'étape 2.
 
 2. L'Enseignant souhaite supprimer un chapitre.
@@ -53,5 +52,5 @@ La gestion des chapitres permet à l'Enseignant d'ajouter, éditer et supprimer 
 
 2. L'Enseignant souhaite annuler son action.
     1. Cette alternative se déclenche après les étapes 2, 5 ou 6 du scénario nominal.
-    2. L'enseignant selectionne "annuler l'opération"
-    3. Le système affiche la page de l'UE.
+    2. L'Enseignant sélectionne "Annuler l'opération"
+    3. Le Système affiche la page de l'UE.
