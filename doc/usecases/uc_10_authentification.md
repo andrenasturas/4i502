@@ -3,7 +3,7 @@
 * Créé le 06/10/16
 * Mis à jour le 06/10/16
 * Écrite par André Nasturas
-* Version 1.1
+* Version 1.2
 
 ### Description
 
@@ -19,16 +19,17 @@ L'Authentification permet à l'Utilisateur de s'identifier en tant qu'Enseignant
 
 ### Scénario nominal
 
-1. L'Utilisateur clique sur le bouton d'authentification sur l'application web.
+1. L'Utilisateur utilise la fonction d'authentification sur l'application web.
 2. Le Système affiche le formulaire de connexion.
 3. L'Utilisateur entre son identifiant et son mot de passe dans le formulaire.
-4. L'Utilisateur clique sur le bouton de validation.
+4. L'Utilisateur valide le formulaire.
 5. Le Système vérifie l'exactitude des identifiant et mot de passe.
-6. Le Système affiche la page de gestion reservée aux Professeurs sur l'application web.
+6. Le Système affiche la page de gestion reservée aux Enseignants sur l'application web.
 
 ### Post-Conditions
 
-* L'enseignant a accès à la page de gestion lui étant reservée.
+* L'Utilisateur devient un Enseignant.
+* L'Enseignant a accès à la page de Gestion des UE (UC2).
 
 ### Alternatives possibles
 
