@@ -1,9 +1,9 @@
-## UC_80 Effacer un commentaire
+## UC8 Effacer un commentaire
 
 * Créé le 06/10/16
-* Mis à jour le 06/10/16
+* Mis à jour le 16/10/16
 * Écrite par Benjamin Loglisci
-* Version 1.0
+* Version 1.0.1
 
 ### Description
 
@@ -15,11 +15,11 @@ Permet à un Enseignant d'effacer un commentaire à une question.
 
 ### Pré-Conditions
 
-* Etre sur la page de la question.
+* Être sur la page de la question.
 
 ### Scénario nominal
 
-1. L'Enseignant sélectionne l'option _Supprimmer_ sur le commentaire désiré. 
+1. L'Enseignant sélectionne l'option _Supprimmer_ sur le commentaire désiré.
 2. Le Système efface le commentaire et ne l'affiche plus.
 
 ### Post-Conditions

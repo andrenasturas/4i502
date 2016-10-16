@@ -1,9 +1,9 @@
-## UC_70 Poster un commentaire
+## UC7 Poster un commentaire
 
 * Créé le 06/10/16
-* Mis à jour le 06/10/16
+* Mis à jour le 16/10/16
 * Écrite par Benjamin Loglisci
-* Version 1.0
+* Version 1.0.1
 
 ### Description
 
@@ -16,7 +16,7 @@ Permet à un Utilisateur ou un Enseignant de poster un commentaire à une questi
 
 ### Pré-Conditions
 
-* Etre sur la page de la question.
+* Être sur la page de la question.
 
 ### Scénario nominal
 

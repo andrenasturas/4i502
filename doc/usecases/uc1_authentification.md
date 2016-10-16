@@ -1,7 +1,7 @@
-## UC_10 S'authentifier
+## UC1 S'authentifier
 
 * Créé le 06/10/16
-* Mis à jour le 06/10/16
+* Mis à jour le 16/10/16
 * Écrite par André Nasturas
 * Version 1.2
 

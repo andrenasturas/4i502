@@ -1,9 +1,9 @@
-## UC_60 Passer un QCM
+## UC6 Passer un QCM
 
 * Créé le 06/10/16
-* Mis à jour le 06/10/16
+* Mis à jour le 16/10/16
 * Écrite par André Nasturas
-* Version 1.1
+* Version 1.2.0
 
 ### Description
 
@@ -37,8 +37,13 @@ Aucune.
 
 ### Alternatives possibles
 
-1. Il reste des questions non répondues.
-	1. Cette alternative se déclenche après l'étape 10.
+1. Le nombre de questions existantes dans l'UE et le chapitre choisis est inférieur au nombre de questions demandées par l'Utilisateur.
+    1. Cette alternative se déclanche après l'étape 7 du scénario nominal.
+    2. Le Système affiche un message d'erreur expliquant qu'il n'existe pas suffisament de questions, et affiche le nombre de questions disponible pour ce chapitre.
+    3. Le scénario nominal reprend à l'étape 5.
+
+2. Il reste des questions non répondues.
+	1. Cette alternative se déclenche après l'étape 10 du scénario nominal.
 	2. Le scénario nominal reprend à l'étape 9.
 
 ### Exceptions possibles

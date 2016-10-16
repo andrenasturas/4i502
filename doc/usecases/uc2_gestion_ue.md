@@ -1,13 +1,13 @@
-## UC_20 Gérer les UE
+## UC2 Gérer les UE
 
 * Créé le 06/10/16
-* Mis à jour le 13/10/16
+* Mis à jour le 16/10/16
 * Écrite par Damien Serin
-* Version 1.2
+* Version 1.2.1
 
 ### Description
 
-La gestion des UE permet à l'Enseignant d'ajouter, éditer et supprimer des UE.
+La Gestion des UE permet à l'Enseignant d'ajouter, éditer et supprimer des UE.
 
 ### Acteur(s) concerné(s)
 
@@ -39,7 +39,7 @@ A1. L'Enseignant souhaite ajouter une nouvelle UE.
     2. Le Système affiche le formulaire d'ajout d'une UE.
     3. L'Enseignant renseigne les champs du formulaire d'ajout d'une UE.
     4. L'Enseignant valide l'ajout de l'UE.
-    3. Le Sytème notifie l'Enseignant de l'ajout d'une nouvelle UE. 
+    3. Le Sytème notifie l'Enseignant de l'ajout d'une nouvelle UE.
     4. Le scénario nominal reprend à l'étape 2.
 
 A2. L'Enseignant n'est pas le créateur de l'UE	.
@@ -58,7 +58,7 @@ A3. L'Enseignant souhaite supprimer une UE.
 ### Exceptions possibles
 
 E1. L'Enseignant annule l'action en cours.
-    1. Cette execption se déclenche après l'étape 5 ou 6 du scénario nominal. Après l'étape 2 ou 3 du scénario alternatif A1. Après l'étape 3 du scénario alternatif A3.
+    1. Cette execption se déclenche après l'étape 5 ou 6 du scénario nominal, ou après l'étape 2 ou 3 du scénario alternatif A1, ou après l'étape 3 du scénario alternatif A3.
     2. L'Enseignant clique sur le bouton d'annulation.
     3. Le Système notifie l'enseignant de l'annulation de l'action en cours.
     4. Le Système affiche la liste des UE.
