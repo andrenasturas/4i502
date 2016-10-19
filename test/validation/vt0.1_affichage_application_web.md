@@ -1,9 +1,9 @@
-## TV_11 Gestion des UE
+## VT0.1 Affichage de l'application web
 
 * Créé le 13/10/16
-* Mis à jour le 13/10/16
+* Mis à jour le 19/10/16
 * Écrite par André Nasturas
-* Version 1.0
+* Version 1.0.1
 
 ### Contexte
 

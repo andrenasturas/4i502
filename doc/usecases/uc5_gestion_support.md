@@ -3,7 +3,7 @@
 * Créé le 06/10/16
 * Mis à jour le 16/10/16
 * Écrite par Damien Serin
-* Version 1.1.1
+* Version 1.2.0
 
 ### Description
 
@@ -23,7 +23,6 @@ La gestion des supports permet à l'Enseignant d'ajouter, éditer et suppprimer 
 2. Le Système affiche la liste des UE.
 3. L'Enseignant choisit l'UE et le Chapitre pour lequel il souhaite consulter la liste des supports.
 4. L'Enseignant sélectionne un support existant à éditer.
-5. Le Système vérifie que l'enseignant est bien le propriétaire du support.
 6. Le Système affiche la page d'édition d'un support.
 7. L'Enseignant modifie les champs souhaités.
 8. L'Enseignant valide les modifications.

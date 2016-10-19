@@ -3,7 +3,7 @@
 * Créé le 13/10/16
 * Mis à jour le 16/10/16
 * Écrite par Sandra Laduranti
-* Version 1.0.1
+* Version 1.0.2
 
 ### Description
 
@@ -16,7 +16,8 @@ La Gestion des chapitres permet à l'Enseignant d'ajouter, éditer et supprimer 
 ### Pré-Conditions
 
 * L'UE concernant le chapitre à éditer existe.
-* L'Enseignant est le créateur de l'UE où le chapitre est lié.
+* L'Enseignant est le créateur de l'UE concernant le chapitre.
+* L'Enseignant est sur la liste des UE.
 
 ### Scénario nominal
 

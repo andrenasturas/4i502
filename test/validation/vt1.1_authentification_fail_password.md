@@ -1,9 +1,9 @@
 ## TV_11 Authentification échouée (mot de passe invalide)
 
 * Créé le 13/10/16
-* Mis à jour le 13/10/16
+* Mis à jour le 19/10/16
 * Écrite par André Nasturas
-* Version 1.0
+* Version 1.1
 
 ### Contexte
 
@@ -26,4 +26,6 @@
 
 ### Moyens de vérification
 
-* Confirmation visuelle immédiate
+* Confirmation visuelle immédiate.
+* L'accès à la page d'authentification est possible.
+* L'accès à la page de gestion des UE est impossible (UC2).

@@ -1,9 +1,9 @@
 ## TV_10 Authentification réussie
 
 * Créé le 13/10/16
-* Mis à jour le 13/10/16
+* Mis à jour le 19/10/16
 * Écrite par André Nasturas
-* Version 1.0
+* Version 1.1
 
 ### Contexte
 
@@ -27,5 +27,6 @@
 
 ### Moyens de vérification
 
-* Confirmation visuelle immédiate
+* Confirmation visuelle immédiate.
 * L'accès à la page d'authentification est impossible.
+* L'accès à la page de gestion des UE est possible (UC2).
