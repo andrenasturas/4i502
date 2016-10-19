@@ -3,7 +3,7 @@
 * Créé le 06/10/16
 * Mis à jour le 16/10/16
 * Écrite par Damien Serin
-* Version 1.2.1
+* Version 1.3.0
 
 ### Description
 
@@ -15,18 +15,16 @@ La Gestion des UE permet à l'Enseignant d'ajouter, éditer et supprimer des UE.
 
 ### Pré-Conditions
 
-* Aucune
+* L'Enseignant est sur la liste des UE.
 
 ### Scénario nominal
 
-1. L'Enseignant demande l'affichage de la liste des UE.
-2. Le Système affiche la liste des UE.
-3. L'Enseignant sélectionne une UE existante à éditer.
-4. Le Système vérifie si l'enseignant est bien le propriétaire de cette UE.
-5. Le Système affiche le formulaire d'édition de l'UE.
-6. L'Enseignant modifie les champs souhaités.
-7. L'Enseignant valide les modifications.
-8. Le Sytème notifie l'Enseignant des modifications.
+1. L'Enseignant sélectionne une UE à éditer.
+2. Le Système vérifie si l'enseignant est bien le propriétaire de cette UE.
+3. Le Système affiche le formulaire d'édition de l'UE.
+4. L'Enseignant modifie les champs souhaités.
+5. L'Enseignant valide les modifications.
+6. Le Sytème notifie l'Enseignant des modifications.
 
 ### Post-Conditions
 
