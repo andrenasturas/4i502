@@ -1,14 +1,15 @@
-## TV_11 Gestion des UE
+## VT0.2 Affichage formulaire d'authentification
 
 * Créé le 13/10/16
-* Mis à jour le 13/10/16
+* Mis à jour le 19/10/16
 * Écrite par André Nasturas
-* Version 1.0
+* Version 1.0.1
 
 ### Contexte
 
 * L'application web fonctionne.
-* L'Utilisateur affiche la page d'accueil de l'application web (TV_01).
+* L'Utilisateur affiche la page d'accueil de l'application web (VT0.1).
+* L'Utilisateur n'est pas authentifié en tant qu'Enseignant (VT1.0)
 
 ### Entrée
 
@@ -16,7 +17,7 @@
 
 ### Scénario nominal
 
-1. L'Utilisateur accède à l'écran d'authentification depuis la page d'accueil de l'application web.
+1. L'Utilisateur accède à l'écran d'authentification depuis la page d'accueil de l'application web, en cliquant sur le lien adéquat.
 
 ### Résultat attendu
 
