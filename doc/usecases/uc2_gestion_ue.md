@@ -49,7 +49,7 @@ A2. L'Enseignant n'est pas le créateur de l'UE	.
 
 A3. L'Enseignant souhaite supprimer une UE.
     1. Cette alternative se déclenche après l'étape 5 du scénario nominal.
-    2. L'Enseignant clique sur le boutton permettant de supprimer l'UE selectionnée.
+    2. L'Enseignant clique sur le bouton permettant de supprimer l'UE selectionnée.
     3. Le Système demande à l'enseignant de confirmer la suppression de l'UE.
     4. L'Enseignant confirme la demande de suppression.
     5. Le Système notifie l'Enseignant de la suppression de l'UE.
