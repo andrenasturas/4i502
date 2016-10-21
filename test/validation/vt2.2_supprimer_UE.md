@@ -7,7 +7,7 @@
 
 ### Contexte
 
-* L'Utilisateur affiche la page de l'UE.
+* L'Enseignant affiche la page de l'UE.
 * Il existe une UE enregistrée dans le Système dont le nom est **4I502**.
 * Il existe un Enseignant enregistré dans le Système dont l'identifiant est **Professeur** et étant le possesseur de l'ue **4I502**.
 
